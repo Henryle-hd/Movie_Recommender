@@ -1,4 +1,4 @@
-# 🎬 Netflix Movie Recommender System
+# 🎬 Movie Recommender System
 
   A machine learning-based movie recommendation system that suggests similar movies based on user selection.
 
@@ -7,7 +7,7 @@
 - Content-based movie recommendation
 - Interactive web interface using Streamlit
 - Movie poster display using TMDB API
-- Top 5 similar movie recommendations
+- Top 5 - 100 similar movie recommendations
 - Over 10,000 movies in database
 
 ## 🛠️ Technologies Used
