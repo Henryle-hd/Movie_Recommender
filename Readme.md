@@ -1,6 +1,9 @@
+
 # 🎬 Movie Recommender System
 
   A machine learning-based movie recommendation system that suggests similar movies based on user selection.
+
+![MovieTimeGIF](https://github.com/user-attachments/assets/1a6e8a9c-9fdb-4918-97f5-d96ff7935d97)
 
 ## 🚀 Features
 
