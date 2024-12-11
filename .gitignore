@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+.virutal_documents/
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Data files and models
+*.pkl
+data/
+
+# Logs and debugging
+*.log
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints/
